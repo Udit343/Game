@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1,h2{
+    color: antiquewhite;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 7px solid black;
+    margin: 20px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.fuchsia{
+    background-color: fuchsia;
+}
+.lawngreen{
+    background-color: lawngreen;
+}
+
+.flash{
+    background-color: white;
+    
+}
